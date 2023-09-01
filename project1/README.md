@@ -21,5 +21,5 @@
   시현이 가능하도록 Python에서 가능한 GUI 개발 라이브러리 중 Qt 기반의 **PySide6**를 사용하여 구현하였다.
 ![녹화본](https://github.com/L-yejin/2023-XAI-toyproject/assets/104400282/edd65fb8-ef42-4eb6-a8df-264b89d00a5f)
 
-### 자료
-[xai 중간 발표 자료](https://drive.google.com/file/d/1H5PmitwSkeTHeQti3sVBzat_c2JHoJRe/view?usp=drive_link)
+### 관련 자료
+[X:AI 중간 발표 자료](https://drive.google.com/file/d/1H5PmitwSkeTHeQti3sVBzat_c2JHoJRe/view?usp=drive_link)
