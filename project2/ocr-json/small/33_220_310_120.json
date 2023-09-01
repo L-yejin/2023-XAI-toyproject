@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Snow",
+  "bbox": [
+   [
+    96,
+    458
+   ],
+   [
+    559,
+    458
+   ],
+   [
+    559,
+    605
+   ],
+   [
+    96,
+    605
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "Winter",
+  "bbox": [
+   [
+    1691,
+    517
+   ],
+   [
+    1828,
+    517
+   ],
+   [
+    1828,
+    566
+   ],
+   [
+    1691,
+    566
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

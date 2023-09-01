@@ -1,0 +1,50 @@
+[
+ {
+  "text": "LOVE",
+  "bbox": [
+   [
+    877,
+    51
+   ],
+   [
+    991,
+    51
+   ],
+   [
+    991,
+    95
+   ],
+   [
+    877,
+    95
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Heart",
+  "bbox": [
+   [
+    879,
+    1003
+   ],
+   [
+    993,
+    1003
+   ],
+   [
+    993,
+    1045
+   ],
+   [
+    879,
+    1045
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

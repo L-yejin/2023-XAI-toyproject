@@ -1,0 +1,26 @@
+[
+ {
+  "text": "PINK",
+  "bbox": [
+   [
+    1721,
+    519
+   ],
+   [
+    1827,
+    519
+   ],
+   [
+    1827,
+    563
+   ],
+   [
+    1721,
+    563
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

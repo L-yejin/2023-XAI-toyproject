@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Rain",
+  "bbox": [
+   [
+    931,
+    959
+   ],
+   [
+    1025,
+    959
+   ],
+   [
+    1025,
+    1001
+   ],
+   [
+    931,
+    1001
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

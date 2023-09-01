@@ -1,0 +1,50 @@
+[
+ {
+  "text": "고양이",
+  "bbox": [
+   [
+    96,
+    992
+   ],
+   [
+    206,
+    992
+   ],
+   [
+    206,
+    1042
+   ],
+   [
+    96,
+    1042
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "Cat",
+  "bbox": [
+   [
+    1751,
+    1001
+   ],
+   [
+    1827,
+    1001
+   ],
+   [
+    1827,
+    1041
+   ],
+   [
+    1751,
+    1041
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

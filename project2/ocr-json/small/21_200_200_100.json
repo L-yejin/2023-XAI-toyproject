@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Jewel",
+  "bbox": [
+   [
+    899,
+    520
+   ],
+   [
+    1021,
+    520
+   ],
+   [
+    1021,
+    562
+   ],
+   [
+    899,
+    562
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Money",
+  "bbox": [
+   [
+    234,
+    515
+   ],
+   [
+    375,
+    515
+   ],
+   [
+    375,
+    571
+   ],
+   [
+    234,
+    571
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

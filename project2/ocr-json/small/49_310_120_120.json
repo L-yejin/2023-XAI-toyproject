@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Lemon",
+  "bbox": [
+   [
+    673,
+    167
+   ],
+   [
+    1252,
+    167
+   ],
+   [
+    1252,
+    323
+   ],
+   [
+    673,
+    323
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "레듬",
+  "bbox": [
+   [
+    323,
+    897
+   ],
+   [
+    399,
+    897
+   ],
+   [
+    399,
+    941
+   ],
+   [
+    323,
+    941
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

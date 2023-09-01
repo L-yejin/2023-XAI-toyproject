@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Sport",
+  "bbox": [
+   [
+    1709,
+    73
+   ],
+   [
+    1830,
+    73
+   ],
+   [
+    1830,
+    125
+   ],
+   [
+    1709,
+    125
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "small"
+ },
+ {
+  "text": "스포츠",
+  "bbox": [
+   [
+    511,
+    645
+   ],
+   [
+    1469,
+    645
+   ],
+   [
+    1469,
+    995
+   ],
+   [
+    511,
+    995
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

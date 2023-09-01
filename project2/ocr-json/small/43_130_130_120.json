@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Rainbow",
+  "bbox": [
+   [
+    97,
+    177
+   ],
+   [
+    271,
+    177
+   ],
+   [
+    271,
+    219
+   ],
+   [
+    97,
+    219
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "무지개",
+  "bbox": [
+   [
+    1404,
+    822
+   ],
+   [
+    1824,
+    822
+   ],
+   [
+    1824,
+    972
+   ],
+   [
+    1404,
+    972
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "medium"
+ }
+]

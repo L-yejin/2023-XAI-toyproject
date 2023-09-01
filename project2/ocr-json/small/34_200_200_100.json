@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Winter",
+  "bbox": [
+   [
+    895,
+    520
+   ],
+   [
+    1029,
+    520
+   ],
+   [
+    1029,
+    562
+   ],
+   [
+    895,
+    562
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "text": "PINK",
+  "bbox": [
+   [
+    909,
+    983
+   ],
+   [
+    1015,
+    983
+   ],
+   [
+    1015,
+    1025
+   ],
+   [
+    909,
+    1025
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

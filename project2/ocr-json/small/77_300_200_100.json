@@ -1,0 +1,26 @@
+[
+ {
+  "text": "party",
+  "bbox": [
+   [
+    905,
+    832
+   ],
+   [
+    1016,
+    832
+   ],
+   [
+    1016,
+    884
+   ],
+   [
+    905,
+    884
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

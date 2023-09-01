@@ -1,0 +1,50 @@
+[
+ {
+  "text": "농구",
+  "bbox": [
+   [
+    1070,
+    300
+   ],
+   [
+    1852,
+    300
+   ],
+   [
+    1852,
+    788
+   ],
+   [
+    1070,
+    788
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "big"
+ },
+ {
+  "text": "Sport",
+  "bbox": [
+   [
+    126,
+    668
+   ],
+   [
+    246,
+    668
+   ],
+   [
+    246,
+    718
+   ],
+   [
+    126,
+    718
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Dance",
+  "bbox": [
+   [
+    97,
+    153
+   ],
+   [
+    227,
+    153
+   ],
+   [
+    227,
+    195
+   ],
+   [
+    97,
+    195
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "party",
+  "bbox": [
+   [
+    1717,
+    154
+   ],
+   [
+    1828,
+    154
+   ],
+   [
+    1828,
+    204
+   ],
+   [
+    1717,
+    204
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "text": "City",
+  "bbox": [
+   [
+    281,
+    516
+   ],
+   [
+    372,
+    516
+   ],
+   [
+    372,
+    569
+   ],
+   [
+    281,
+    569
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Sport",
+  "bbox": [
+   [
+    902,
+    74
+   ],
+   [
+    1020,
+    74
+   ],
+   [
+    1020,
+    124
+   ],
+   [
+    902,
+    124
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

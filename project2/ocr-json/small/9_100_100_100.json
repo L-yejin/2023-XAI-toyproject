@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Cooking",
+  "bbox": [
+   [
+    209,
+    154
+   ],
+   [
+    386,
+    154
+   ],
+   [
+    386,
+    216
+   ],
+   [
+    209,
+    216
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

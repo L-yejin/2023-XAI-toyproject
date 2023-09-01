@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Walk",
+  "bbox": [
+   [
+    97,
+    539
+   ],
+   [
+    197,
+    539
+   ],
+   [
+    197,
+    581
+   ],
+   [
+    97,
+    581
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Summer",
+  "bbox": [
+   [
+    1655,
+    971
+   ],
+   [
+    1827,
+    971
+   ],
+   [
+    1827,
+    1013
+   ],
+   [
+    1655,
+    1013
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

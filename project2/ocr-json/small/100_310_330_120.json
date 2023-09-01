@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Mountain",
+  "bbox": [
+   [
+    1289,
+    163
+   ],
+   [
+    1744,
+    163
+   ],
+   [
+    1744,
+    265
+   ],
+   [
+    1289,
+    265
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "medium"
+ },
+ {
+  "text": "Mountain",
+  "bbox": [
+   [
+    1445,
+    925
+   ],
+   [
+    1631,
+    925
+   ],
+   [
+    1631,
+    969
+   ],
+   [
+    1445,
+    969
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

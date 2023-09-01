@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Star",
+  "bbox": [
+   [
+    915,
+    193
+   ],
+   [
+    1005,
+    193
+   ],
+   [
+    1005,
+    235
+   ],
+   [
+    915,
+    235
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Tree",
+  "bbox": [
+   [
+    915,
+    965
+   ],
+   [
+    1005,
+    965
+   ],
+   [
+    1005,
+    1007
+   ],
+   [
+    915,
+    1007
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "text": "여름",
+  "bbox": [
+   [
+    1042,
+    20
+   ],
+   [
+    1878,
+    20
+   ],
+   [
+    1878,
+    526
+   ],
+   [
+    1042,
+    526
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "big"
+ },
+ {
+  "text": "Summer",
+  "bbox": [
+   [
+    94,
+    984
+   ],
+   [
+    265,
+    984
+   ],
+   [
+    265,
+    1029
+   ],
+   [
+    94,
+    1029
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

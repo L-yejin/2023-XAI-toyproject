@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Heart",
+  "bbox": [
+   [
+    433,
+    835
+   ],
+   [
+    551,
+    835
+   ],
+   [
+    551,
+    877
+   ],
+   [
+    433,
+    877
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

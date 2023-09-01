@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Halloween",
+  "bbox": [
+   [
+    1302,
+    927
+   ],
+   [
+    1510,
+    927
+   ],
+   [
+    1510,
+    971
+   ],
+   [
+    1302,
+    971
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

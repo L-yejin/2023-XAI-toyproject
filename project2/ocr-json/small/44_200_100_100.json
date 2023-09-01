@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Rainbow",
+  "bbox": [
+   [
+    73,
+    519
+   ],
+   [
+    247,
+    519
+   ],
+   [
+    247,
+    563
+   ],
+   [
+    73,
+    563
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

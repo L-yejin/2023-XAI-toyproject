@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Lemon",
+  "bbox": [
+   [
+    889,
+    518
+   ],
+   [
+    1032,
+    518
+   ],
+   [
+    1032,
+    566
+   ],
+   [
+    889,
+    566
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

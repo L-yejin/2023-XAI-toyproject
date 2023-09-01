@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Summer",
+  "bbox": [
+   [
+    1655,
+    65
+   ],
+   [
+    1827,
+    65
+   ],
+   [
+    1827,
+    107
+   ],
+   [
+    1655,
+    107
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "small"
+ },
+ {
+  "text": "Beach",
+  "bbox": [
+   [
+    100,
+    886
+   ],
+   [
+    652,
+    886
+   ],
+   [
+    652,
+    1034
+   ],
+   [
+    100,
+    1034
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]
