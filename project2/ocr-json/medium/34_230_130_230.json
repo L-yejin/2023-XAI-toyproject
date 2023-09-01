@@ -1,0 +1,50 @@
+[
+ {
+  "text": "SMILE",
+  "bbox": [
+   [
+    114,
+    466
+   ],
+   [
+    572,
+    466
+   ],
+   [
+    572,
+    610
+   ],
+   [
+    114,
+    610
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "FACE",
+  "bbox": [
+   [
+    1003,
+    763
+   ],
+   [
+    1878,
+    763
+   ],
+   [
+    1878,
+    1069
+   ],
+   [
+    1003,
+    1069
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "big"
+ }
+]

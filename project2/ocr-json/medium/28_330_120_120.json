@@ -1,0 +1,50 @@
+[
+ {
+  "text": "FAN",
+  "bbox": [
+   [
+    748,
+    823
+   ],
+   [
+    1181,
+    823
+   ],
+   [
+    1181,
+    1021
+   ],
+   [
+    748,
+    1021
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "Cool",
+  "bbox": [
+   [
+    92,
+    956
+   ],
+   [
+    195,
+    956
+   ],
+   [
+    195,
+    1007
+   ],
+   [
+    92,
+    1007
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

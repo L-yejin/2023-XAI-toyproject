@@ -1,0 +1,74 @@
+[
+ {
+  "text": "School",
+  "bbox": [
+   [
+    32,
+    26
+   ],
+   [
+    642,
+    26
+   ],
+   [
+    642,
+    196
+   ],
+   [
+    32,
+    196
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "BOOK",
+  "bbox": [
+   [
+    1044,
+    352
+   ],
+   [
+    1920,
+    352
+   ],
+   [
+    1920,
+    707
+   ],
+   [
+    1044,
+    707
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "big"
+ },
+ {
+  "text": "Student",
+  "bbox": [
+   [
+    81,
+    949
+   ],
+   [
+    241,
+    949
+   ],
+   [
+    241,
+    993
+   ],
+   [
+    81,
+    993
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

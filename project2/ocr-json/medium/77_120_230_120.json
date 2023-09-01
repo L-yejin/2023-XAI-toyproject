@@ -1,0 +1,50 @@
+[
+ {
+  "text": "programming",
+  "bbox": [
+   [
+    776,
+    112
+   ],
+   [
+    1018,
+    112
+   ],
+   [
+    1018,
+    164
+   ],
+   [
+    776,
+    164
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Computer",
+  "bbox": [
+   [
+    1157,
+    462
+   ],
+   [
+    1875,
+    462
+   ],
+   [
+    1875,
+    647
+   ],
+   [
+    1157,
+    647
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "medium"
+ }
+]

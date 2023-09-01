@@ -1,0 +1,74 @@
+[
+ {
+  "text": "자동차",
+  "bbox": [
+   [
+    742,
+    86
+   ],
+   [
+    1179,
+    86
+   ],
+   [
+    1179,
+    263
+   ],
+   [
+    742,
+    263
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "CAR",
+  "bbox": [
+   [
+    126,
+    394
+   ],
+   [
+    835,
+    394
+   ],
+   [
+    835,
+    688
+   ],
+   [
+    126,
+    688
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "부근부등",
+  "bbox": [
+   [
+    904,
+    1012
+   ],
+   [
+    1050,
+    1012
+   ],
+   [
+    1050,
+    1062
+   ],
+   [
+    904,
+    1062
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

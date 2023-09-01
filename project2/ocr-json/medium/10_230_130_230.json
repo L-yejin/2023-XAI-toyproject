@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Street",
+  "bbox": [
+   [
+    246,
+    436
+   ],
+   [
+    704,
+    436
+   ],
+   [
+    704,
+    582
+   ],
+   [
+    246,
+    582
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "Road",
+  "bbox": [
+   [
+    1013,
+    684
+   ],
+   [
+    1878,
+    684
+   ],
+   [
+    1878,
+    1005
+   ],
+   [
+    1013,
+    1005
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "big"
+ }
+]

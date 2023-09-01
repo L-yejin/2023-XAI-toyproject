@@ -1,0 +1,74 @@
+[
+ {
+  "text": "M",
+  "bbox": [
+   [
+    1141,
+    5
+   ],
+   [
+    1205,
+    5
+   ],
+   [
+    1205,
+    157
+   ],
+   [
+    1141,
+    157
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Computer",
+  "bbox": [
+   [
+    692,
+    888
+   ],
+   [
+    1239,
+    888
+   ],
+   [
+    1239,
+    1021
+   ],
+   [
+    692,
+    1021
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "programming",
+  "bbox": [
+   [
+    41,
+    959
+   ],
+   [
+    242,
+    959
+   ],
+   [
+    242,
+    999
+   ],
+   [
+    41,
+    999
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

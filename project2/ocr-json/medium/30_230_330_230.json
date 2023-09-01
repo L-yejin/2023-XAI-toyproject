@@ -1,0 +1,50 @@
+[
+ {
+  "text": "FAN",
+  "bbox": [
+   [
+    1430,
+    445
+   ],
+   [
+    1863,
+    445
+   ],
+   [
+    1863,
+    641
+   ],
+   [
+    1430,
+    641
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "medium"
+ },
+ {
+  "text": "Wind",
+  "bbox": [
+   [
+    1069,
+    688
+   ],
+   [
+    1899,
+    688
+   ],
+   [
+    1899,
+    1049
+   ],
+   [
+    1069,
+    1049
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "big"
+ }
+]

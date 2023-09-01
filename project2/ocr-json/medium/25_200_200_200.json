@@ -1,0 +1,26 @@
+[
+ {
+  "text": "FAN",
+  "bbox": [
+   [
+    781,
+    441
+   ],
+   [
+    1214,
+    441
+   ],
+   [
+    1214,
+    642
+   ],
+   [
+    781,
+    642
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "medium"
+ }
+]

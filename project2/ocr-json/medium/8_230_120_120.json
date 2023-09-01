@@ -1,0 +1,50 @@
+[
+ {
+  "text": "avenue",
+  "bbox": [
+   [
+    97,
+    585
+   ],
+   [
+    237,
+    585
+   ],
+   [
+    237,
+    621
+   ],
+   [
+    97,
+    621
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "Street",
+  "bbox": [
+   [
+    700,
+    870
+   ],
+   [
+    1156,
+    870
+   ],
+   [
+    1156,
+    1016
+   ],
+   [
+    700,
+    1016
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "medium"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "text": "School",
+  "bbox": [
+   [
+    18,
+    453
+   ],
+   [
+    634,
+    453
+   ],
+   [
+    634,
+    634
+   ],
+   [
+    18,
+    634
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

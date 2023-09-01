@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Family",
+  "bbox": [
+   [
+    18,
+    0
+   ],
+   [
+    1206,
+    0
+   ],
+   [
+    1206,
+    444
+   ],
+   [
+    18,
+    444
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "House",
+  "bbox": [
+   [
+    730,
+    512
+   ],
+   [
+    1201,
+    512
+   ],
+   [
+    1201,
+    662
+   ],
+   [
+    730,
+    662
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "Apartment",
+  "bbox": [
+   [
+    114,
+    952
+   ],
+   [
+    314,
+    952
+   ],
+   [
+    314,
+    1002
+   ],
+   [
+    114,
+    1002
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

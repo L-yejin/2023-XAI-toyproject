@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Family",
+  "bbox": [
+   [
+    409,
+    0
+   ],
+   [
+    1523,
+    0
+   ],
+   [
+    1523,
+    403
+   ],
+   [
+    409,
+    403
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "House",
+  "bbox": [
+   [
+    74,
+    842
+   ],
+   [
+    543,
+    842
+   ],
+   [
+    543,
+    995
+   ],
+   [
+    74,
+    995
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

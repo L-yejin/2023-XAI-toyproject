@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Sunset",
+  "bbox": [
+   [
+    91,
+    67
+   ],
+   [
+    235,
+    67
+   ],
+   [
+    235,
+    111
+   ],
+   [
+    91,
+    111
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "SKY",
+  "bbox": [
+   [
+    50,
+    456
+   ],
+   [
+    462,
+    456
+   ],
+   [
+    462,
+    632
+   ],
+   [
+    50,
+    632
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "text": "SKY",
+  "bbox": [
+   [
+    773,
+    25
+   ],
+   [
+    1143,
+    25
+   ],
+   [
+    1143,
+    187
+   ],
+   [
+    773,
+    187
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "rCITY",
+  "bbox": [
+   [
+    935,
+    703
+   ],
+   [
+    1920,
+    703
+   ],
+   [
+    1920,
+    1075
+   ],
+   [
+    935,
+    1075
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "big"
+ }
+]

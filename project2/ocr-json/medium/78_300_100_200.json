@@ -1,0 +1,50 @@
+[
+ {
+  "text": "M",
+  "bbox": [
+   [
+    663,
+    5
+   ],
+   [
+    725,
+    5
+   ],
+   [
+    725,
+    155
+   ],
+   [
+    663,
+    155
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Computer",
+  "bbox": [
+   [
+    57,
+    919
+   ],
+   [
+    602,
+    919
+   ],
+   [
+    602,
+    1047
+   ],
+   [
+    57,
+    1047
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

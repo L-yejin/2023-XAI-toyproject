@@ -1,0 +1,50 @@
+[
+ {
+  "text": "BOOK",
+  "bbox": [
+   [
+    1045,
+    5
+   ],
+   [
+    1920,
+    5
+   ],
+   [
+    1920,
+    360
+   ],
+   [
+    1045,
+    360
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "big"
+ },
+ {
+  "text": "School",
+  "bbox": [
+   [
+    655,
+    760
+   ],
+   [
+    1264,
+    760
+   ],
+   [
+    1264,
+    928
+   ],
+   [
+    655,
+    928
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "medium"
+ }
+]

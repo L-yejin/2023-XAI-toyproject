@@ -1,0 +1,50 @@
+[
+ {
+  "text": "CAR",
+  "bbox": [
+   [
+    1435,
+    547
+   ],
+   [
+    1519,
+    547
+   ],
+   [
+    1519,
+    589
+   ],
+   [
+    1435,
+    589
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "small"
+ },
+ {
+  "text": "자동차",
+  "bbox": [
+   [
+    192,
+    806
+   ],
+   [
+    627,
+    806
+   ],
+   [
+    627,
+    983
+   ],
+   [
+    192,
+    983
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

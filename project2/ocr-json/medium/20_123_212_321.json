@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Island",
+  "bbox": [
+   [
+    466,
+    34
+   ],
+   [
+    1440,
+    34
+   ],
+   [
+    1440,
+    348
+   ],
+   [
+    466,
+    348
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "SEA",
+  "bbox": [
+   [
+    179,
+    489
+   ],
+   [
+    465,
+    489
+   ],
+   [
+    465,
+    629
+   ],
+   [
+    179,
+    629
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "Wave",
+  "bbox": [
+   [
+    908,
+    945
+   ],
+   [
+    1015,
+    945
+   ],
+   [
+    1015,
+    988
+   ],
+   [
+    908,
+    988
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

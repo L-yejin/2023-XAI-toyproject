@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Computer",
+  "bbox": [
+   [
+    139,
+    149
+   ],
+   [
+    684,
+    149
+   ],
+   [
+    684,
+    273
+   ],
+   [
+    139,
+    273
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "Enter",
+  "bbox": [
+   [
+    1010,
+    356
+   ],
+   [
+    1920,
+    356
+   ],
+   [
+    1920,
+    687
+   ],
+   [
+    1010,
+    687
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "big"
+ },
+ {
+  "text": "programming",
+  "bbox": [
+   [
+    1655,
+    955
+   ],
+   [
+    1857,
+    955
+   ],
+   [
+    1857,
+    995
+   ],
+   [
+    1655,
+    995
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

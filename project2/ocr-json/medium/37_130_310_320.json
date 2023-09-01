@@ -1,0 +1,74 @@
+[
+ {
+  "text": "FACE",
+  "bbox": [
+   [
+    982,
+    22
+   ],
+   [
+    1864,
+    22
+   ],
+   [
+    1864,
+    334
+   ],
+   [
+    982,
+    334
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "big"
+ },
+ {
+  "text": "<",
+  "bbox": [
+   [
+    1111,
+    365
+   ],
+   [
+    1247,
+    365
+   ],
+   [
+    1247,
+    515
+   ],
+   [
+    1111,
+    515
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "SMILE",
+  "bbox": [
+   [
+    74,
+    880
+   ],
+   [
+    532,
+    880
+   ],
+   [
+    532,
+    1026
+   ],
+   [
+    74,
+    1026
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

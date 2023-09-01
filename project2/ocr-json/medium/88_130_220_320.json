@@ -1,0 +1,50 @@
+[
+ {
+  "text": "CIIY",
+  "bbox": [
+   [
+    535,
+    0
+   ],
+   [
+    1400,
+    0
+   ],
+   [
+    1400,
+    378
+   ],
+   [
+    535,
+    378
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "SKY",
+  "bbox": [
+   [
+    777,
+    924
+   ],
+   [
+    1148,
+    924
+   ],
+   [
+    1148,
+    1080
+   ],
+   [
+    777,
+    1080
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

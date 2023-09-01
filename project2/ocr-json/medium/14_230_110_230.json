@@ -1,0 +1,50 @@
+[
+ {
+  "text": "SEA",
+  "bbox": [
+   [
+    122,
+    466
+   ],
+   [
+    410,
+    466
+   ],
+   [
+    410,
+    610
+   ],
+   [
+    122,
+    610
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "Island",
+  "bbox": [
+   [
+    0,
+    767
+   ],
+   [
+    964,
+    767
+   ],
+   [
+    964,
+    1071
+   ],
+   [
+    0,
+    1071
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "big"
+ }
+]

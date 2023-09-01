@@ -1,0 +1,26 @@
+[
+ {
+  "text": "House",
+  "bbox": [
+   [
+    1376,
+    466
+   ],
+   [
+    1849,
+    466
+   ],
+   [
+    1849,
+    626
+   ],
+   [
+    1376,
+    626
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "medium"
+ }
+]

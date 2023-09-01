@@ -1,0 +1,74 @@
+[
+ {
+  "text": "SKY",
+  "bbox": [
+   [
+    1430,
+    48
+   ],
+   [
+    1842,
+    48
+   ],
+   [
+    1842,
+    224
+   ],
+   [
+    1430,
+    224
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "medium"
+ },
+ {
+  "text": "CiTY",
+  "bbox": [
+   [
+    0,
+    477
+   ],
+   [
+    1022,
+    477
+   ],
+   [
+    1022,
+    1080
+   ],
+   [
+    0,
+    1080
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "big"
+ },
+ {
+  "text": "Sunset",
+  "bbox": [
+   [
+    159,
+    519
+   ],
+   [
+    303,
+    519
+   ],
+   [
+    303,
+    563
+   ],
+   [
+    159,
+    563
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

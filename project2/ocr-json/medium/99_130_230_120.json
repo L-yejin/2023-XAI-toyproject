@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Student",
+  "bbox": [
+   [
+    881,
+    57
+   ],
+   [
+    1041,
+    57
+   ],
+   [
+    1041,
+    99
+   ],
+   [
+    881,
+    99
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "School",
+  "bbox": [
+   [
+    1237,
+    716
+   ],
+   [
+    1846,
+    716
+   ],
+   [
+    1846,
+    887
+   ],
+   [
+    1237,
+    887
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "medium"
+ }
+]

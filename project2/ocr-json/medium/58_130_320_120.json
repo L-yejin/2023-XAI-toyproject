@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Apartment",
+  "bbox": [
+   [
+    1601,
+    79
+   ],
+   [
+    1802,
+    79
+   ],
+   [
+    1802,
+    133
+   ],
+   [
+    1601,
+    133
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "small"
+ },
+ {
+  "text": "House",
+  "bbox": [
+   [
+    724,
+    850
+   ],
+   [
+    1195,
+    850
+   ],
+   [
+    1195,
+    1002
+   ],
+   [
+    724,
+    1002
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "medium"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Road",
+  "bbox": [
+   [
+    536,
+    33
+   ],
+   [
+    1397,
+    33
+   ],
+   [
+    1397,
+    345
+   ],
+   [
+    536,
+    345
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "Street",
+  "bbox": [
+   [
+    697,
+    468
+   ],
+   [
+    1155,
+    468
+   ],
+   [
+    1155,
+    612
+   ],
+   [
+    697,
+    612
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "avenue",
+  "bbox": [
+   [
+    139,
+    977
+   ],
+   [
+    279,
+    977
+   ],
+   [
+    279,
+    1013
+   ],
+   [
+    139,
+    1013
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "small"
+ }
+]

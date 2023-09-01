@@ -1,0 +1,26 @@
+[
+ {
+  "text": "SEA",
+  "bbox": [
+   [
+    816,
+    466
+   ],
+   [
+    1104,
+    466
+   ],
+   [
+    1104,
+    610
+   ],
+   [
+    816,
+    610
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

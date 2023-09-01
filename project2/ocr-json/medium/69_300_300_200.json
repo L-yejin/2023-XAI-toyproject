@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Cafe",
+  "bbox": [
+   [
+    1383,
+    833
+   ],
+   [
+    1888,
+    833
+   ],
+   [
+    1888,
+    1033
+   ],
+   [
+    1383,
+    1033
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "medium"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Cool",
+  "bbox": [
+   [
+    1761,
+    67
+   ],
+   [
+    1861,
+    67
+   ],
+   [
+    1861,
+    109
+   ],
+   [
+    1761,
+    109
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "small"
+ },
+ {
+  "text": "FAN",
+  "bbox": [
+   [
+    41,
+    449
+   ],
+   [
+    469,
+    449
+   ],
+   [
+    469,
+    637
+   ],
+   [
+    41,
+    637
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "Wind",
+  "bbox": [
+   [
+    1086,
+    729
+   ],
+   [
+    1902,
+    729
+   ],
+   [
+    1902,
+    1060
+   ],
+   [
+    1086,
+    1060
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "big"
+ }
+]

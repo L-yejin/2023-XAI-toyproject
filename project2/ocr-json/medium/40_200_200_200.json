@@ -1,0 +1,26 @@
+[
+ {
+  "text": "SMILE",
+  "bbox": [
+   [
+    738,
+    466
+   ],
+   [
+    1196,
+    466
+   ],
+   [
+    1196,
+    614
+   ],
+   [
+    738,
+    614
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "medium"
+ }
+]

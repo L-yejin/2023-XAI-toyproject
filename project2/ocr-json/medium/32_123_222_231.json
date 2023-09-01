@@ -1,0 +1,74 @@
+[
+ {
+  "text": "SMILE",
+  "bbox": [
+   [
+    734,
+    44
+   ],
+   [
+    1192,
+    44
+   ],
+   [
+    1192,
+    190
+   ],
+   [
+    734,
+    190
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "FACE",
+  "bbox": [
+   [
+    500,
+    332
+   ],
+   [
+    1387,
+    332
+   ],
+   [
+    1387,
+    648
+   ],
+   [
+    500,
+    648
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "Happy",
+  "bbox": [
+   [
+    895,
+    828
+   ],
+   [
+    1025,
+    828
+   ],
+   [
+    1025,
+    884
+   ],
+   [
+    895,
+    884
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

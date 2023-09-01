@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Mountain",
+  "bbox": [
+   [
+    831,
+    57
+   ],
+   [
+    1017,
+    57
+   ],
+   [
+    1017,
+    99
+   ],
+   [
+    831,
+    99
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Mountain",
+  "bbox": [
+   [
+    1419,
+    425
+   ],
+   [
+    1874,
+    425
+   ],
+   [
+    1874,
+    525
+   ],
+   [
+    1419,
+    525
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "medium"
+ },
+ {
+  "text": "Mountain",
+  "bbox": [
+   [
+    316,
+    787
+   ],
+   [
+    1631,
+    787
+   ],
+   [
+    1631,
+    1080
+   ],
+   [
+    316,
+    1080
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

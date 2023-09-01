@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Computer",
+  "bbox": [
+   [
+    12,
+    486
+   ],
+   [
+    561,
+    486
+   ],
+   [
+    561,
+    618
+   ],
+   [
+    12,
+    618
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

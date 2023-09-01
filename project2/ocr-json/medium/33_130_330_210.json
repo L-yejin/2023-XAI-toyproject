@@ -1,0 +1,50 @@
+[
+ {
+  "text": "SMILE",
+  "bbox": [
+   [
+    1370,
+    38
+   ],
+   [
+    1828,
+    38
+   ],
+   [
+    1828,
+    184
+   ],
+   [
+    1370,
+    184
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "medium"
+ },
+ {
+  "text": "Happy",
+  "bbox": [
+   [
+    1530,
+    907
+   ],
+   [
+    1662,
+    907
+   ],
+   [
+    1662,
+    968
+   ],
+   [
+    1530,
+    968
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "small"
+ }
+]

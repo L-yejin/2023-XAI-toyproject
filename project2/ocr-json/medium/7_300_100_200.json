@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Street",
+  "bbox": [
+   [
+    110,
+    840
+   ],
+   [
+    568,
+    840
+   ],
+   [
+    568,
+    988
+   ],
+   [
+    110,
+    988
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

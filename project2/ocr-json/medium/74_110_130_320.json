@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Enter",
+  "bbox": [
+   [
+    0,
+    0
+   ],
+   [
+    922,
+    0
+   ],
+   [
+    922,
+    348
+   ],
+   [
+    0,
+    348
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "big"
+ },
+ {
+  "text": "Computer",
+  "bbox": [
+   [
+    1321,
+    73
+   ],
+   [
+    1868,
+    73
+   ],
+   [
+    1868,
+    202
+   ],
+   [
+    1321,
+    202
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "medium"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Wave",
+  "bbox": [
+   [
+    908,
+    112
+   ],
+   [
+    1015,
+    112
+   ],
+   [
+    1015,
+    153
+   ],
+   [
+    908,
+    153
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "SEA",
+  "bbox": [
+   [
+    814,
+    842
+   ],
+   [
+    1104,
+    842
+   ],
+   [
+    1104,
+    986
+   ],
+   [
+    814,
+    986
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

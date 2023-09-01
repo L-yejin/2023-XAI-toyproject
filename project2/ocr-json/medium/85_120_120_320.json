@@ -1,0 +1,50 @@
+[
+ {
+  "text": "CITY",
+  "bbox": [
+   [
+    13,
+    8
+   ],
+   [
+    889,
+    8
+   ],
+   [
+    889,
+    377
+   ],
+   [
+    13,
+    377
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "big"
+ },
+ {
+  "text": "SKY",
+  "bbox": [
+   [
+    880,
+    460
+   ],
+   [
+    1258,
+    460
+   ],
+   [
+    1258,
+    628
+   ],
+   [
+    880,
+    628
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]
