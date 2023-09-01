@@ -15,8 +15,10 @@
   시안 이미지 내 텍스트 비율을 확인 할 수 있도록 시각화하고, 글자의 크기 및 비율 판단을 진행하는 프로젝트입니다. 디자인 시안에 포함된 글자의 **크기 및 비율에 대한 3가지 판단(작다/적당하다/크다)** 을 하기 위해서 이미지에서 글자가 위치한 **Bounding Box**를 사용하여 전체 이미지에서 차지하는 비율을 파악한 후 **3가지 판단(작다/적당하다/크다)** 으로 분류를 진행하였습니다.  
   
   진행 방향 설정 후, 3가지 판단에 대한 이미지 각 100장씩 총 300장의 이미지가 필요하여 *이미지 내 글자는 최대 3가지로 가정한 후, small/medium/big의 이미지 총 300장* 을 제작하였습니다. 제작된 이미지에 **easyocr** 을 사용하여 이미지 내 텍스트의 Bounding Box를 찾아낸 후 **가로세로가 전체의 0.2 이하인 경우 small, 0.4 이하인 경우 medium, 그 외는 big** 으로 판단하도록 하였습니다. 이 외에도 텍스트의 바운딩 박스의 중점 위치가 이미지에서 상하좌우로 치우쳤는지에 대해서도 판단하였습니다. 이미지의 가로와 세로에서 0.3 미만의 위치는 left,top이라고 하고, 0.7 초과는 right,bottom으로, 그 외는 middle이라고 설정하였습니다.  
-  
+<img width="761" alt="스크린샷 2023-09-01 오후 6 04 51" src="https://github.com/L-yejin/2023-XAI-toyproject/assets/104400282/63968300-3577-445f-88f0-0400b13ce708">
+
   해당 결과의 정확도를 측정할 때, OCR의 예측 결과와 GroundTruth의 텍스트 개수가 일치하지 않는 경우는 False라고 하고, 갯수가 일치한 것 중 **size / vertical / horizontal 3가지 고려** 한후 모두 매칭이 되는 경우는 True, 아닌 경우는 False로 반환하였습니다. 올바르게 ocr되어 바운딩박스의 size / vertical / horizontal가 모두 일치한 갯수는 총 300개 중 284개로 정확도는 **94.667%** 였습니다.  
+<img width="823" alt="스크린샷 2023-09-01 오후 6 05 27" src="https://github.com/L-yejin/2023-XAI-toyproject/assets/104400282/bdc7017e-bbd4-445f-be3e-c21437332c6b">
 
 ### 관련 자료
-[자이 최종 발표 자료](https://drive.google.com/file/d/1vduIJbpRxHXBn-cBV5bVqcgt0NSxkyCj/view?usp=drive_link)
+[X:AI 최종 발표 자료](https://drive.google.com/file/d/1vduIJbpRxHXBn-cBV5bVqcgt0NSxkyCj/view?usp=drive_link)
