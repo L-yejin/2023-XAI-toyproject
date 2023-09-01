@@ -19,4 +19,4 @@
   해당 결과의 정확도를 측정할 때, OCR의 예측 결과와 GroundTruth의 텍스트 개수가 일치하지 않는 경우는 False라고 하고, 갯수가 일치한 것 중 **size / vertical / horizontal 3가지 고려** 한후 모두 매칭이 되는 경우는 True, 아닌 경우는 False로 반환하였습니다. 올바르게 ocr되어 바운딩박스의 size / vertical / horizontal가 모두 일치한 갯수는 총 300개 중 284개로 정확도는 **94.667%** 였습니다.  
 
 ### 관련 자료
-[자이 최종 발표 자료]([https://github.com/L-yejin/2022_Capstone/tree/main/2022%20KMU%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C](https://drive.google.com/file/d/1vduIJbpRxHXBn-cBV5bVqcgt0NSxkyCj/view?usp=drive_link)https://drive.google.com/file/d/1vduIJbpRxHXBn-cBV5bVqcgt0NSxkyCj/view?usp=drive_link)
+[자이 최종 발표 자료](https://drive.google.com/file/d/1vduIJbpRxHXBn-cBV5bVqcgt0NSxkyCj/view?usp=drive_link)
