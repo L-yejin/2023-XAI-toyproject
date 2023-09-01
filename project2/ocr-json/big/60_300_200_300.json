@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Snowman",
+  "bbox": [
+   [
+    202,
+    707
+   ],
+   [
+    1719,
+    707
+   ],
+   [
+    1719,
+    997
+   ],
+   [
+    202,
+    997
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

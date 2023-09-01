@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Tree",
+  "bbox": [
+   [
+    515,
+    338
+   ],
+   [
+    1405,
+    338
+   ],
+   [
+    1405,
+    766
+   ],
+   [
+    515,
+    766
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

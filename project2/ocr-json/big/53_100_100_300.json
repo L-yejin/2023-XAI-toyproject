@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Christ Mas",
+  "bbox": [
+   [
+    0,
+    0
+   ],
+   [
+    970,
+    0
+   ],
+   [
+    970,
+    647
+   ],
+   [
+    0,
+    647
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "big"
+ }
+]

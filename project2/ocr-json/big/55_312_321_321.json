@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Christmas",
+  "bbox": [
+   [
+    629,
+    44
+   ],
+   [
+    1298,
+    44
+   ],
+   [
+    1298,
+    200
+   ],
+   [
+    629,
+    200
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "medium"
+ },
+ {
+  "text": "Star",
+  "bbox": [
+   [
+    338,
+    505
+   ],
+   [
+    476,
+    505
+   ],
+   [
+    476,
+    569
+   ],
+   [
+    338,
+    569
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "small"
+ },
+ {
+  "text": "Tree",
+  "bbox": [
+   [
+    973,
+    610
+   ],
+   [
+    1873,
+    610
+   ],
+   [
+    1873,
+    1024
+   ],
+   [
+    973,
+    1024
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "big"
+ }
+]

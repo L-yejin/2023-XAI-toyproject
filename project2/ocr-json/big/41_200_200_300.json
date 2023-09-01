@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Space",
+  "bbox": [
+   [
+    521,
+    407
+   ],
+   [
+    1478,
+    407
+   ],
+   [
+    1478,
+    775
+   ],
+   [
+    521,
+    775
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

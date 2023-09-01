@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Money",
+  "bbox": [
+   [
+    348,
+    0
+   ],
+   [
+    1578,
+    0
+   ],
+   [
+    1578,
+    365
+   ],
+   [
+    348,
+    365
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "Cash",
+  "bbox": [
+   [
+    518,
+    792
+   ],
+   [
+    1403,
+    792
+   ],
+   [
+    1403,
+    1080
+   ],
+   [
+    518,
+    1080
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

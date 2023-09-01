@@ -1,0 +1,26 @@
+[
+ {
+  "text": "LOVE",
+  "bbox": [
+   [
+    451,
+    365
+   ],
+   [
+    1483,
+    365
+   ],
+   [
+    1483,
+    673
+   ],
+   [
+    451,
+    673
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

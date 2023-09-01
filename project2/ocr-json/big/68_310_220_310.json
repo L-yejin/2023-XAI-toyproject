@@ -1,0 +1,50 @@
+[
+ {
+  "text": "파티타임~",
+  "bbox": [
+   [
+    872,
+    122
+   ],
+   [
+    1046,
+    122
+   ],
+   [
+    1046,
+    172
+   ],
+   [
+    872,
+    172
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Party",
+  "bbox": [
+   [
+    477,
+    613
+   ],
+   [
+    1453,
+    613
+   ],
+   [
+    1453,
+    1004
+   ],
+   [
+    477,
+    1004
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

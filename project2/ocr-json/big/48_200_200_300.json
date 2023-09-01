@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Mountain",
+  "bbox": [
+   [
+    315,
+    361
+   ],
+   [
+    1626,
+    361
+   ],
+   [
+    1626,
+    678
+   ],
+   [
+    315,
+    678
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

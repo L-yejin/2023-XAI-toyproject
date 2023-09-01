@@ -1,0 +1,50 @@
+[
+ {
+  "text": "CAT",
+  "bbox": [
+   [
+    1092,
+    324
+   ],
+   [
+    1884,
+    324
+   ],
+   [
+    1884,
+    699
+   ],
+   [
+    1092,
+    699
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "big"
+ },
+ {
+  "text": "낭이다용",
+  "bbox": [
+   [
+    185,
+    785
+   ],
+   [
+    722,
+    785
+   ],
+   [
+    722,
+    970
+   ],
+   [
+    185,
+    970
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "medium"
+ }
+]

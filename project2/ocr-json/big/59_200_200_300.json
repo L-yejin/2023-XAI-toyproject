@@ -1,0 +1,26 @@
+[
+ {
+  "text": "SnowMan",
+  "bbox": [
+   [
+    240,
+    382
+   ],
+   [
+    1684,
+    382
+   ],
+   [
+    1684,
+    674
+   ],
+   [
+    240,
+    674
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

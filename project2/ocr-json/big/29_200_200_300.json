@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Delicious",
+  "bbox": [
+   [
+    305,
+    373
+   ],
+   [
+    1618,
+    373
+   ],
+   [
+    1618,
+    706
+   ],
+   [
+    305,
+    706
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

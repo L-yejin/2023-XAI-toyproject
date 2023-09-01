@@ -1,0 +1,26 @@
+[
+ {
+  "text": "WaIK",
+  "bbox": [
+   [
+    496,
+    369
+   ],
+   [
+    1454,
+    369
+   ],
+   [
+    1454,
+    686
+   ],
+   [
+    496,
+    686
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Umbrella",
+  "bbox": [
+   [
+    45,
+    101
+   ],
+   [
+    482,
+    101
+   ],
+   [
+    482,
+    201
+   ],
+   [
+    45,
+    201
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "medium"
+ },
+ {
+  "text": "Rain",
+  "bbox": [
+   [
+    558,
+    382
+   ],
+   [
+    1349,
+    382
+   ],
+   [
+    1349,
+    661
+   ],
+   [
+    558,
+    661
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

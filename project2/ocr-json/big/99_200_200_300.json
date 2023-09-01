@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Sight",
+  "bbox": [
+   [
+    423,
+    350
+   ],
+   [
+    1505,
+    350
+   ],
+   [
+    1505,
+    760
+   ],
+   [
+    423,
+    760
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

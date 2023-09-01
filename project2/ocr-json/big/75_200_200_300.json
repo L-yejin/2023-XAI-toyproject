@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Thinking",
+  "bbox": [
+   [
+    166,
+    315
+   ],
+   [
+    1759,
+    315
+   ],
+   [
+    1759,
+    743
+   ],
+   [
+    166,
+    743
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

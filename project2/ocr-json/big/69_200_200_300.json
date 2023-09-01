@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Party",
+  "bbox": [
+   [
+    467,
+    288
+   ],
+   [
+    1458,
+    288
+   ],
+   [
+    1458,
+    724
+   ],
+   [
+    467,
+    724
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

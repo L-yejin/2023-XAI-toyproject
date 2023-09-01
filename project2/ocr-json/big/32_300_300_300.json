@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Airplane",
+  "bbox": [
+   [
+    717,
+    708
+   ],
+   [
+    1920,
+    708
+   ],
+   [
+    1920,
+    1075
+   ],
+   [
+    717,
+    1075
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

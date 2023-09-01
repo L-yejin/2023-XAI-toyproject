@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Idea",
+  "bbox": [
+   [
+    531,
+    348
+   ],
+   [
+    1377,
+    348
+   ],
+   [
+    1377,
+    700
+   ],
+   [
+    531,
+    700
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "Thinking",
+  "bbox": [
+   [
+    701,
+    920
+   ],
+   [
+    1218,
+    920
+   ],
+   [
+    1218,
+    1073
+   ],
+   [
+    701,
+    1073
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "medium"
+ }
+]

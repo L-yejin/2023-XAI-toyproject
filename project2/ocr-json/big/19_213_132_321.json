@@ -1,0 +1,74 @@
+[
+ {
+  "text": "낳이다용",
+  "bbox": [
+   [
+    1087,
+    93
+   ],
+   [
+    1622,
+    93
+   ],
+   [
+    1622,
+    270
+   ],
+   [
+    1087,
+    270
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "right",
+  "size": "medium"
+ },
+ {
+  "text": "ACAT",
+  "bbox": [
+   [
+    26,
+    349
+   ],
+   [
+    1011,
+    349
+   ],
+   [
+    1011,
+    689
+   ],
+   [
+    26,
+    689
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "big"
+ },
+ {
+  "text": "나는야작고소중한낳이",
+  "bbox": [
+   [
+    821,
+    959
+   ],
+   [
+    1067,
+    959
+   ],
+   [
+    1067,
+    995
+   ],
+   [
+    821,
+    995
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "small"
+ }
+]

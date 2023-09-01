@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Flower",
+  "bbox": [
+   [
+    415,
+    377
+   ],
+   [
+    1505,
+    377
+   ],
+   [
+    1505,
+    684
+   ],
+   [
+    415,
+    684
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

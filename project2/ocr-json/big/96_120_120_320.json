@@ -1,0 +1,50 @@
+[
+ {
+  "text": "LOVE",
+  "bbox": [
+   [
+    0,
+    0
+   ],
+   [
+    1015,
+    0
+   ],
+   [
+    1015,
+    326
+   ],
+   [
+    0,
+    326
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "big"
+ },
+ {
+  "text": "Heart",
+  "bbox": [
+   [
+    714,
+    454
+   ],
+   [
+    1220,
+    454
+   ],
+   [
+    1220,
+    602
+   ],
+   [
+    714,
+    602
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "medium"
+ }
+]

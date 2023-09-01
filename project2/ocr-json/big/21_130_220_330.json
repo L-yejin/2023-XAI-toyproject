@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Happy",
+  "bbox": [
+   [
+    353,
+    37
+   ],
+   [
+    1427,
+    37
+   ],
+   [
+    1427,
+    445
+   ],
+   [
+    353,
+    445
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "big"
+ },
+ {
+  "text": "BirthDay",
+  "bbox": [
+   [
+    314,
+    621
+   ],
+   [
+    1608,
+    621
+   ],
+   [
+    1608,
+    1006
+   ],
+   [
+    314,
+    1006
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

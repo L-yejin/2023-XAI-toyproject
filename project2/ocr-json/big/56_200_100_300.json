@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Snow",
+  "bbox": [
+   [
+    0,
+    355
+   ],
+   [
+    973,
+    355
+   ],
+   [
+    973,
+    703
+   ],
+   [
+    0,
+    703
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "left",
+  "size": "big"
+ }
+]

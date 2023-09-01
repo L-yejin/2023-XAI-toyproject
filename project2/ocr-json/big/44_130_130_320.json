@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Space",
+  "bbox": [
+   [
+    0,
+    20
+   ],
+   [
+    935,
+    20
+   ],
+   [
+    935,
+    411
+   ],
+   [
+    0,
+    411
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "left",
+  "size": "big"
+ },
+ {
+  "text": "rocket",
+  "bbox": [
+   [
+    1249,
+    845
+   ],
+   [
+    1731,
+    845
+   ],
+   [
+    1731,
+    981
+   ],
+   [
+    1249,
+    981
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "right",
+  "size": "medium"
+ }
+]

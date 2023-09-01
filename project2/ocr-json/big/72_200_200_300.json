@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Idea",
+  "bbox": [
+   [
+    483,
+    337
+   ],
+   [
+    1427,
+    337
+   ],
+   [
+    1427,
+    713
+   ],
+   [
+    483,
+    713
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

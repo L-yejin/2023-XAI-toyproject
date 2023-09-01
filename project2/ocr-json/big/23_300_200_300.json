@@ -1,0 +1,26 @@
+[
+ {
+  "text": "CAKE",
+  "bbox": [
+   [
+    564,
+    656
+   ],
+   [
+    1372,
+    656
+   ],
+   [
+    1372,
+    950
+   ],
+   [
+    564,
+    950
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "middle",
+  "size": "big"
+ }
+]

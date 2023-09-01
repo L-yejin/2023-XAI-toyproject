@@ -1,0 +1,74 @@
+[
+ {
+  "text": "동글동글",
+  "bbox": [
+   [
+    924,
+    287
+   ],
+   [
+    1072,
+    287
+   ],
+   [
+    1072,
+    339
+   ],
+   [
+    924,
+    339
+   ]
+  ],
+  "vertical": "top",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "Snowman",
+  "bbox": [
+   [
+    1289,
+    481
+   ],
+   [
+    1920,
+    481
+   ],
+   [
+    1920,
+    604
+   ],
+   [
+    1289,
+    604
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "right",
+  "size": "medium"
+ },
+ {
+  "text": "Snow",
+  "bbox": [
+   [
+    0,
+    706
+   ],
+   [
+    1048,
+    706
+   ],
+   [
+    1048,
+    1068
+   ],
+   [
+    0,
+    1068
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "big"
+ }
+]

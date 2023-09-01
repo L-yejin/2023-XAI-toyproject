@@ -1,0 +1,50 @@
+[
+ {
+  "text": "Sunset",
+  "bbox": [
+   [
+    790,
+    498
+   ],
+   [
+    1140,
+    498
+   ],
+   [
+    1140,
+    594
+   ],
+   [
+    790,
+    594
+   ]
+  ],
+  "vertical": "middle",
+  "horizontal": "middle",
+  "size": "small"
+ },
+ {
+  "text": "City",
+  "bbox": [
+   [
+    0,
+    630
+   ],
+   [
+    774,
+    630
+   ],
+   [
+    774,
+    1027
+   ],
+   [
+    0,
+    1027
+   ]
+  ],
+  "vertical": "bottom",
+  "horizontal": "left",
+  "size": "big"
+ }
+]
