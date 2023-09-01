@@ -1,6 +1,7 @@
 # 인공지능 기반 상품 및 인물 사진 컨셉 합성 솔루션
 
 #### 사용 모델: [segmentation_models_pytorc](https://github.com/qubvel/segmentation_models.pytorch)
+사용시 해당 GitHub clone 해서 사용해야합니다
 
 ## 1. 배경 및 목적
 - 제품 사진 촬영 시 발생되는 비용과 인력 문제에 대한 소상공인의 부담 증가
